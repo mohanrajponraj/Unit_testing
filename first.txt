@@ -1,8 +1,5 @@
 text added
 Third Added
 THird add
-<<<<<<< HEAD
 fourth added
-=======
 edc
->>>>>>> e830c3cf066d8417c65c0e50d030c1b00237358c
